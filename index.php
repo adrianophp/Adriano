@@ -1,6 +1,7 @@
 <?
 
-	echo "Olá Mundo!";
-	echo "Eu sou o Adriano";
+	echo "Olá Mundo123!";
+
+	echo "Olá Hcode!";
 	
 >?
